@@ -1,0 +1,1 @@
+Contains application.properties for Microservices
